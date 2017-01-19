@@ -1,0 +1,31 @@
+{
+  "name": "vue-quill-editor",
+  "version": "1.0.0",
+  "description": "HTML editor using Vue.js 2.0 and Quill.js,with custom image upload handler",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nooldey/vue-quill-editor.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-component",
+    "quill",
+    "html",
+    "editor",
+    "text",
+    "editor"
+  ],
+  "author": "David Royer",
+  "license": "MIT",
+  "dependencies": {
+    "quill": "^1.1.5"
+  },
+  "bugs": {
+    "url": "https://github.com/nooldey/vue-quill-editor/issues"
+  },
+  "homepage": "https://github.com/nooldey/vue-quill-editor#readme"
+}
